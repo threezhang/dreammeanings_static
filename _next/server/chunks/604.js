@@ -18,7 +18,7 @@ var jsx_runtime_ = __webpack_require__(997);
 var next_image = __webpack_require__(5675);
 var image_default = /*#__PURE__*/__webpack_require__.n(next_image);
 ;// CONCATENATED MODULE: ./src/images/background-auth.jpg
-/* harmony default export */ const background_auth = ({"src":"/_next/static/media/background-auth.4bcf3f4b.jpg","height":1866,"width":1664,"blurDataURL":"data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAAIAAcDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAP/xAAaEAACAwEBAAAAAAAAAAAAAAAAAgEDBBIh/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAIRIUH/2gAMAwEAAhEDEQA/AL05cteJelWZb2HABYGXsALFtoT/2Q==","blurWidth":7,"blurHeight":8});
+/* harmony default export */ const background_auth = ({"src":"https://cdn.jsdelivr.net/gh/threezhang/dreammeanings_static@v1.0.0//_next/static/media/background-auth.4bcf3f4b.jpg","height":1866,"width":1664,"blurDataURL":"data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAAIAAcDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAP/xAAaEAACAwEBAAAAAAAAAAAAAAAAAgEDBBIh/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAZEQEAAgMAAAAAAAAAAAAAAAABAAIRIUH/2gAMAwEAAhEDEQA/AL05cteJelWZb2HABYGXsALFtoT/2Q==","blurWidth":7,"blurHeight":8});
 ;// CONCATENATED MODULE: ./src/components/AuthLayout.jsx
 
 
