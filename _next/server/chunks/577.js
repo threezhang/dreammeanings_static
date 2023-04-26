@@ -58,21 +58,34 @@ function Button({ variant ="solid" , color ="slate" , className , href , ...prop
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
 
 function Logo(props) {
-    return /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("svg", {
-        viewBox: "0 0 200 40",
-        ...props,
+    return /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+        className: "flex",
         children: [
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("path", {
-                fillRule: "evenodd",
-                clipRule: "evenodd",
-                d: "M0 20c0 11.046 8.954 20 20 20s20-8.954 20-20S31.046 0 20 0 0 8.954 0 20Zm20 16c-7.264 0-13.321-5.163-14.704-12.02C4.97 22.358 6.343 21 8 21h24c1.657 0 3.031 1.357 2.704 2.98C33.32 30.838 27.264 36 20 36Z",
-                fill: "#2563EB"
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
+                className: "box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;",
+                children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("svg", {
+                    xmlns: "http://www.w3.org/2000/svg",
+                    width: "1em",
+                    height: "1em",
+                    viewBox: "0 0 256 256",
+                    ...props,
+                    children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("g", {
+                        fill: "#776dc5",
+                        children: [
+                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("path", {
+                                d: "M232 168v24a8 8 0 0 1-8 8H32a8 8 0 0 1-8-8v-22.87C24 111.65 70.15 64.2 127.63 64A104 104 0 0 1 232 168Z",
+                                opacity: ".2"
+                            }),
+                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("path", {
+                                d: "M176 156a12 12 0 1 1-12-12a12 12 0 0 1 12 12Zm-84-12a12 12 0 1 0 12 12a12 12 0 0 0-12-12Zm148 24v24a16 16 0 0 1-16 16H32a16 16 0 0 1-16-16v-22.87a113.38 113.38 0 0 1 35.4-82.41L26.34 61.66a8 8 0 0 1 11.32-11.32L63.82 76.5a111.4 111.4 0 0 1 128.55-.18l26-26a8 8 0 0 1 11.32 11.32L204.82 86.5c.75.71 1.5 1.43 2.24 2.17A111.25 111.25 0 0 1 240 168Zm-16 0a96 96 0 0 0-96-96h-.34C74.91 72.18 32 115.75 32 169.13V192h192Z"
+                            })
+                        ]
+                    })
+                })
             }),
             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("text", {
-                x: "45",
-                y: "25",
-                fill: "#2563EB",
-                children: "Dream Meanings AI"
+                className: "h-10 text-md p-2 align-middle text-gray-800 font-semibold",
+                children: "Dream Meanings"
             })
         ]
     });
